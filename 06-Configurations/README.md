@@ -4,7 +4,7 @@
 
 1.6.2 [Supported HTTP Methods](02-Supported%20HTTP%20Methods.md)
 
-1.6.3 [Sensitive information stored in cookie in cleartext](03-Sensitive%20information%20stored%20in%20cookie%20in%20cleartext.md)
+1.6.3 [Sensitive information stored in cookie in cleartext](03-Sensitive%20information%20in%20cleartext.md)
 
 1.6.4 [Default admin credentials](04-Default%20admin%20credentials.md)
 
