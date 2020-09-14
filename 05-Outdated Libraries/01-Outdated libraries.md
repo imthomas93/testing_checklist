@@ -2,7 +2,7 @@
 
 |ID          |
 |------------|
-|GTRT-CONF-01|
+|GTRT-OUTD-01|
 
 ## Summary
 
