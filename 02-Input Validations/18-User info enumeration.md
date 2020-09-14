@@ -16,7 +16,7 @@ In some cases, a message is received that reveals if the provided credentials ar
 
 ## How to Test
 
-TTodIn black-box testing, the tester knows nothing about the specific application, username, application logic, error messages on log in page, or password recovery facilities. If the application is vulnerable, the tester receives a response message that reveals, directly or indirectly, some information useful for enumerating users.
+In black-box testing, the tester knows nothing about the specific application, username, application logic, error messages on log in page, or password recovery facilities. If the application is vulnerable, the tester receives a response message that reveals, directly or indirectly, some information useful for enumerating users.
 
 ### HTTP Response Message
 
